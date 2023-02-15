@@ -9,7 +9,7 @@
 | https://www.4armed.com/blog/exploiting-xxe-with-excel/       | Exploiting XXE with Excel                                    | 基于EXCEL的XXE             |
 | https://sirleeroyjenkins.medium.com/bypassing-ssrf-protection-to-exfiltrate-aws-metadata-from-larksuite-bf99a3599462 | Bypassing SSRF Protection to Exfiltrate AWS Metadata from LarkSuite | SSRF攻击元数据包括绕过方法 |
 |https://pwning.owasp-juice.shop/part3/tutorials.html                                                              |           web靶场                                                   |                web靶场            |
-|                                                              |                                                              |                            |
+|           https://github.com/arainho/awesome-api-security                                                   |          api安全                                                    |            api安全                |
 |                                                              |                                                              |                            |
 |                                                              |                                                              |                            |
 |                                                              |                                                              |                            |
