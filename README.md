@@ -70,4 +70,13 @@ https://yiliqsmy.github.io/3summer.github.io/2017/11/30/sdr/    HackRF入门
 https://zhuanlan.zhihu.com/p/45717775  低功耗蓝牙重放攻击实战
 
 
+# IOT安全
+
+https://www.freebuf.com/articles/terminal/254257.html  IoT漏洞研究（一）固件基础
+
+https://github.com/scriptingxss/owasp-fstm  OWASP 固件安全测试方法论
+
+https://github.com/OWASP/IoTGoat   IOT靶场
+
+https://owasp.org/www-project-internetof-things/  OWASP物联网
 
