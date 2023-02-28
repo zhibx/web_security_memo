@@ -16,8 +16,11 @@ https://github.com/arainho/awesome-api-security	api安全	api安全
 # 车联网安全
 
 https://blog.csdn.net/TICPSH/article/details/111967302	控安轩辕实验室：利用开源项目实现定位和时间欺骗	GPS实现欺骗
+https://www.freebuf.com/articles/endpoint/241930.html   海盗讲车：车机的渗透思路与实例分析
 
+https://www.freebuf.com/articles/endpoint/240414.html 海盗讲车：黑掉Tbox
 
+https://www.freebuf.com/articles/endpoint/238682.html  白话车安全
 
 
 
