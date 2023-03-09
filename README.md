@@ -22,6 +22,8 @@ https://www.freebuf.com/articles/endpoint/240414.html 海盗讲车：黑掉Tbox
 
 https://www.freebuf.com/articles/endpoint/238682.html  白话车安全
 
+https://www.brokenwire.fail/  充电桩攻击2022
+
 
 
 # 移动安全
