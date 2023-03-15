@@ -82,3 +82,8 @@ https://github.com/OWASP/IoTGoat   IOT靶场
 
 https://owasp.org/www-project-internetof-things/  OWASP物联网
 
+
+# 安卓APP相关
+https://www.t00ls.com/thread-68721-1-1.html
+https://www.t00ls.com/thread-68717-1-1.html
+https://github.com/ezshine/wxapkg-convertor
