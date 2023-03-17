@@ -87,3 +87,5 @@ https://owasp.org/www-project-internetof-things/  OWASP物联网
 https://www.t00ls.com/thread-68721-1-1.html
 https://www.t00ls.com/thread-68717-1-1.html
 https://github.com/ezshine/wxapkg-convertor
+https://www.52pojie.cn/thread-1405917-1-1.html
+https://www.t00ls.com/thread-68782-1-1.html
